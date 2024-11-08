@@ -17,7 +17,7 @@ This API allows users to access and update an analysis of synergies between two 
   ```
 
 ### Installing
-1. Clone this project or download the `TuckApI.py` file to your local machine.
+1. Clone this project or download the `TuckApi.py` file to your local machine.
 2. The database will be automatically initialized with the initial JSON content the first time the program is run.
 
 ### Executing Program
