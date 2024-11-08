@@ -27,7 +27,7 @@ To run the API server:
 2. Navigate to the project directory.
 3. Run the following command to start the Flask server:
    ```bash
-   python app.py
+   python TuckApi.py
    ```
 4. Once started, the server will run at `http://127.0.0.1:5000`.
 
